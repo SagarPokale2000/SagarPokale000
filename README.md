@@ -6,8 +6,8 @@ I am an Analytical, Detail-oriented, Process-driven graduate, passionate about W
 Self-determined and curious about building products.
 
 # 💫 About Me:
-- 💻 Currently learning full stack application development
-- 📫 How to reach me **spokale922.sp@gmail.com**
+- 💻 Currently learning **Full Stack Web Development**
+- 📫 You can reach me **spokale922.sp@gmail.com**
 - ⚡ Fun fact **I love Adventure and travelling**
 
 
