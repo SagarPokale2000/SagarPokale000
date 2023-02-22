@@ -1,7 +1,7 @@
 # Hi I'm Sagar Pokale
 An aspiring full-stack developer with a passion for learning with an endless supply of optimism and curiosity.
 
-I am an Analytical, Detail-oriented, Process-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools.
+I am an Analytical, Detail-oriented, Process-driven graduate, passionate about Web development, and am skilled development tools.
 
 Self-determined and curious about building products.
 
