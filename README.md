@@ -1,8 +1,14 @@
-# SagarPokale2000
-My Personal Repository
+# Hi I'm Sagar Pokale
+An aspiring full-stack developer with a passion for learning with an endless supply of optimism and curiosity.
+
+I am an Analytical, Detail-oriented, Process-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools.
+
+Self-determined and curious about building products.
 
 # 💫 About Me:
-💻 Currently learning full stack application development
+- 💻 Currently learning full stack application development
+- 📫 How to reach me **spokale922.sp@gmail.com**
+- ⚡ Fun fact **I love Adventure and travelling**
 
 
 ## 🌐 Socials:
